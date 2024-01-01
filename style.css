@@ -67,3 +67,17 @@ a:hover{
 ul{
   list-style-type: none;
 }
+
+
+button{
+  border-radius: 7px;
+  color: white;
+  background-color: red;
+  padding: 7px;
+  font-family: 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+button:hover{
+  cursor: pointer;
+  background-color: green;
+}
